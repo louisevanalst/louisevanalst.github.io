@@ -7,5 +7,5 @@ workbox.routing.registerRoute(
   handler: new workbox.strateies.NetworkFirst({
   cacheName: 'EEN_CACHE_KEY'
 })
-)
+);
 
