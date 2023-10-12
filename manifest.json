@@ -7,6 +7,6 @@
       "sizes": "192x192"
     }
   ],
-  "start_url": "/?home=true",
+  "start_url": "/",
   "display": "standalone"
 }
