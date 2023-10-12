@@ -1,0 +1,12 @@
+{
+  "name": "My progressive webapp",
+  "icons": [
+    {
+      "src": "/resources/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+  "start_url": "/?home=true",
+  "display": "standalone"
+}
